@@ -10,6 +10,7 @@ import AddIcon from "../icons/add.svg";
 import CloseIcon from "../icons/close.svg";
 import MaskIcon from "../icons/mask.svg";
 import PluginIcon from "../icons/plugin.svg";
+import HelpIcon from "../icons/help.svg";
 import DragIcon from "../icons/drag.svg";
 
 import Locale from "../locales";
@@ -23,6 +24,7 @@ import {
   NARROW_SIDEBAR_WIDTH,
   Path,
   REPO_URL,
+  YUQUE_HELP_URL,
 } from "../constant";
 
 import { Link, useNavigate } from "react-router-dom";
@@ -154,7 +156,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          ChatGPT Next
+          SeaMaid ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
           Build your own AI assistant.
@@ -218,6 +220,11 @@ export function SideBar(props: { className?: string }) {
           <div className={styles["sidebar-action"]}>
             <a href={REPO_URL} target="_blank" rel="noopener noreferrer">
               <IconButton icon={<GithubIcon />} shadow />
+            </a>
+          </div>
+          <div className={styles["sidebar-action"]}>
+            <a href={YUQUE_HELP_URL} target="_blank">
+              <IconButton icon={<HelpIcon />} shadow />
             </a>
           </div>
         </div>
