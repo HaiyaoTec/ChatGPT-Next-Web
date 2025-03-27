@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">SeaMaidChat (ChatGPT Next Web)</h1>
+<h1 align="center">NextChat</h1>
 
 English / [简体中文](./README_CN.md)
 
@@ -22,12 +22,11 @@ English / [简体中文](./README_CN.md)
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[SeaMaidChatAI](https://nextchat.dev/chat?utm_source=readme) / [Web App Demo](https://app.nextchat.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) 
-[SeaMaidChatAI](https://nextchat.club?utm_source=readme) / [Web App Demo](https://app.nextchat.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Enterprise Edition](#enterprise-edition) / [Twitter](https://twitter.com/SeaMaidChatDev)
+[NextChatAI](https://nextchat.club?utm_source=readme) / [Web App Demo](https://app.nextchat.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Enterprise Edition](#enterprise-edition) / [Twitter](https://twitter.com/NextChatDev)
 
 
 [saas-url]: https://nextchat.club?utm_source=readme
-[saas-image]: https://img.shields.io/badge/SeaMaidChat-Saas-green?logo=microsoftedge
+[saas-image]: https://img.shields.io/badge/NextChat-Saas-green?logo=microsoftedge
 [web-url]: https://app.nextchat.dev/
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
@@ -35,29 +34,11 @@ English / [简体中文](./README_CN.md)
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
 
-[<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA) [<img src="https://vercel.com/button" alt="Deploy on Vercel" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=SeaMaidChat)  [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/ChatGPTNextWeb/SeaMaidChat) 
+[<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA) [<img src="https://vercel.com/button" alt="Deploy on Vercel" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat)  [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/ChatGPTNextWeb/NextChat) 
 
 [<img src="https://github.com/user-attachments/assets/903482d4-3e87-4134-9af1-f2588fa90659" height="50" width="" >](https://monica.im/?utm=nxcrp)
 
 </div>
-
-## 👋 Hey, SeaMaidChat is going to develop a native app!
-
-> This week we are going to start working on iOS and Android APP, and we want to find some reliable friends to do it together!
-
-
-✨ Several key points:
-
-- Starting from 0, you are a veteran
-- Completely open source, not hidden
-- Native development, pursuing the ultimate experience
-
-Will you come and do something together? 😎
-
-https://github.com/ChatGPTNextWeb/SeaMaidChat/issues/6269
-
-#Seeking for talents is thirsty #lack of people
-
 
 ## 🥳 Cheer for DeepSeek, China's AI star!
  > Purpose-Built UI for DeepSeek Reasoner Model
@@ -66,7 +47,7 @@ https://github.com/ChatGPTNextWeb/SeaMaidChat/issues/6269
 
 
 
-## 🫣 SeaMaidChat Support MCP  ! 
+## 🫣 NextChat Support MCP  ! 
 > Before build, please set env ENABLE_MCP=true
 
 <img src="https://github.com/user-attachments/assets/d8851f40-4e36-4335-b1a4-ec1e11488c7e"/>
@@ -129,7 +110,7 @@ For enterprise inquiries, please contact: **business@nextchat.dev**
 ## What's New
 - 🚀 v2.15.8 Now supports Realtime Chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
 - 🚀 v2.15.4 The Application supports using Tauri fetch LLM API, MORE SECURITY! [#5379](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5379)
-- 🚀 v2.15.0 Now supports Plugins! Read this: [SeaMaidChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/SeaMaidChat-Awesome-Plugins)
+- 🚀 v2.15.0 Now supports Plugins! Read this: [NextChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins)
 - 🚀 v2.14.0 Now supports  Artifacts & SD 
 - 🚀 v2.10.1 support Google Gemini Pro model.
 - 🚀 v2.9.11 you can use azure endpoint now.
